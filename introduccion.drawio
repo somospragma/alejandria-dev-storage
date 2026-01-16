@@ -10,8 +10,14 @@
         <mxCell id="12tC4_NWYGWYn8oyPvLP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hello world" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="80" as="geometry" />
         </mxCell>
+        <mxCell id="12tC4_NWYGWYn8oyPvLP-5" edge="1" parent="1" source="12tC4_NWYGWYn8oyPvLP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="12tC4_NWYGWYn8oyPvLP-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="12tC4_NWYGWYn8oyPvLP-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="From github" vertex="1">
           <mxGeometry height="60" width="120" x="280" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="12tC4_NWYGWYn8oyPvLP-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="From github" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
